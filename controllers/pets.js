@@ -81,17 +81,6 @@ router.put('/:petId', async (req, res) => {
     }
 })
 
-
-
-
-
-
-
-
-
-
-
-
 module.exports = router                                                                   //Export router.
 
 
